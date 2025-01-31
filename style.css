@@ -72,4 +72,8 @@ body{
 
     #result{
         height: 120px;
+        width: auto;
+        font-size: 40px;
+        color: antiquewhite;
+        
     }
